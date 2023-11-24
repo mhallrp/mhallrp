@@ -4,7 +4,7 @@ I'm a software developer, specializing in building exceptional web and mobile ap
 
 🛠  Tech Stack
 
-    📜  Language:  Javascript
+    🌐  Web:  Javascript
     📱  Mobile:  Swift
     🗄  Backend:  Node.js ExpressJS
     🌐  Frontend:  React SwiftUI UIKit
