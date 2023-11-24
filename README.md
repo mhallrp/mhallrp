@@ -1,4 +1,4 @@
- Welcome 👋 , I'm Matt Hall.
+Hi! 👋 I'm Matt Hall.
 
 I'm a software developer, specializing in building exceptional web and mobile applications.
 
