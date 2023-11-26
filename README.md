@@ -7,7 +7,7 @@ I'm a software developer, specializing in building exceptional web and mobile ap
     🌐  Web:  Javascript
     📱  Mobile:  Swift
     🗄  Backend:  Node.js ExpressJS
-    🖥  Frontend:  React SwiftUI UIKit
+    🖥  Frontend:  HTML/CSS React SwiftUI UIKit
     🛢  Database:  MongoDB MySQL Postgresql
     ⚙️  VCS:   Git GitHub
     🔧  IDE's:  Visual Studio Code Sublime Text
