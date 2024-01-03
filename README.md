@@ -14,6 +14,7 @@ I'm a software developer, specializing in building exceptional web and mobile ap
     🎨  Design:  Figma
     ♾️  Devops:  Docker
 
-Connect with me:
+Lets connect!
 
-https://www.linkedin.com/in/matthew-hall-483537188/
+💼 https://www.linkedin.com/in/mhallrp
+📧 hello@matt-hall.dev
