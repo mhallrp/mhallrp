@@ -7,12 +7,12 @@ I'm a software developer, specializing in building exceptional web and mobile ap
     🌐  Web:  Javascript
     📱  Mobile:  Swift
     🗄  Backend:  Node.js ExpressJS
-    🖥  Frontend:  HTML/CSS React SwiftUI UIKit
-    🛢  Database:  MongoDB MySQL Postgresql
+    🖥  Frontend:  HTML/CSS React NextJS SwiftUI UIKit
+    🛢  Database:  PostgreSQL MySQL
     ⚙️  VCS:   Git GitHub
-    🔧  IDE's:  Visual Studio Code Sublime Text
+    🔧  IDE's:  VS Code
     🎨  Design:  Figma
-    ♾️  Devops:  Docker
+    ♾️  Devops:  Docker Railway Vercel
 
 Lets connect!
 
