@@ -7,7 +7,7 @@ I'm a software developer, specializing in building exceptional web and mobile ap
     🌐  Web:  Typescript/Javascript
     📱  Mobile:  Swift
     🗄  Backend:  Node.js ExpressJS
-    🖥  Frontend:  HTML/CSS React NextJS SwiftUI UIKit
+    🖥  Frontend:  HTML/Tailwind/CSS React NextJS SwiftUI UIKit
     🛢  Database:  PostgreSQL MySQL
     ⚙️  VCS:   Git GitHub
     🔧  IDE's:  VS Code
